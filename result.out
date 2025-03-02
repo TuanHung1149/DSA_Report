@@ -1,0 +1,55 @@
+quicksort:
+input1.inp: 58ms
+input2.inp: 75ms
+input3.inp: 213ms
+input4.inp: 253ms
+input5.inp: 205ms
+input6.inp: 209ms
+input7.inp: 213ms
+input8.inp: 210ms
+input9.inp: 203ms
+input10.inp: 209ms
+heapsort:
+input1.inp: 427ms
+input2.inp: 416ms
+input3.inp: 610ms
+input4.inp: 634ms
+input5.inp: 620ms
+input6.inp: 611ms
+input7.inp: 623ms
+input8.inp: 600ms
+input9.inp: 629ms
+input10.inp: 597ms
+mergesort:
+input1.inp: 159ms
+input2.inp: 161ms
+input3.inp: 291ms
+input4.inp: 286ms
+input5.inp: 282ms
+input6.inp: 286ms
+input7.inp: 289ms
+input8.inp: 299ms
+input9.inp: 276ms
+input10.inp: 281ms
+cppsort:
+input1.inp: 158ms
+input2.inp: 183ms
+input3.inp: 153ms
+input4.inp: 152ms
+input5.inp: 157ms
+input6.inp: 157ms
+input7.inp: 158ms
+input8.inp: 151ms
+input9.inp: 161ms
+input10.inp: 156ms
+numpysort:
+input1.inp: 60ms
+input2.inp: 56ms
+input3.inp: 126ms
+input4.inp: 122ms
+input5.inp: 128ms
+input6.inp: 122ms
+input7.inp: 121ms
+input8.inp: 120ms
+input9.inp: 125ms
+input10.inp: 121ms
